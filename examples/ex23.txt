@@ -1,0 +1,30 @@
+seed1	5474
+print_matrixpol 	0
+print_neuttest	2
+
+n_iterations	1000
+n_loci	4
+n_sites 	1050 560 2456 1000
+n_samples 	30 10 24 12
+npop	1
+
+recombination	10 0 30 56
+thetaw	10 5 35 8.5
+factorn_chr	1 1 1 1
+no_rec_males	0
+
+ifselection  	0 0 1 0
+pop_size  	1E06
+pop_sel  	0 0 2E04 0
+sel_nt  	0 0 200 0
+sinit  	0 0 -0.01 0
+
+TD_obs	1	-1.18213	-1.91896	-2.19236	0.540555	
+FD_obs	1	-1.42122	-1.71123	-1.57737	1.59608	
+FF_obs	0	-1.56732	-1.99677	-2.09661	1.38405	
+Rm_obs	1	0	0	0	0	
+
+likelihood_line 1
+TD_err 0.2
+FD_err 0.2
+Rm_err 0.01

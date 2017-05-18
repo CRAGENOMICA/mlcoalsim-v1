@@ -1,0 +1,42 @@
+seed1	672
+print_matrixpol 	0
+print_neuttest	2
+
+n_iterations	100
+n_loci	1
+n_sites 	1350
+n_samples 	12
+npop	1
+
+factorn_chr	1
+no_rec_males	0
+
+nlinked_loci   	2
+pos_linked 	12 500, 1056 1349
+linked_segsites	10 5	
+linked_rm	0 0
+"in case n_locilinked = 1"
+displ  	0
+window  	0
+
+range_thetant  	1
+thetant_min 	0.005
+thetant_max 	0.01
+
+ifgamma	0
+p_gamma	1.0
+alpha_gamma	1.0
+correct_gamma	1.0
+
+range_rnt  	0
+recnt_min 	0.0005
+recnt_max 	0.05
+
+ifgammar	1
+p_gammar	1.0
+alpha_gammar	1.0
+correct_gamma	5.0
+
+sfix_allthetas	1
+rmfix	1
+method_samp	1

@@ -1,0 +1,249 @@
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN ........................................ Simulation finished.
+ Saving results in output file/s...
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+
+mlcoalsim version 1.23 (20070515)
+
+ Starting coalescent simulations...
+ Each dot indicate that aproximately 2% of the simulation is done.
+         1    2    3    4    5    6    7    8    9  100%
+ RUN .................................................. Simulation finished.
+ Saving results in output file/s...
+ Calculating percentiles and (optionally) probabilities for observed values... 
+ mlcoalsim version 1.23 (20070515) exited succesfully.
+

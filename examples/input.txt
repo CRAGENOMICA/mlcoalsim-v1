@@ -1,0 +1,208 @@
+"This is a comment: input test at Feb 24th 2006"
+"Seed to start coalescent simulations"
+seed1	111
+
+"print_matrixpol. 0: does not show DNA sequences. 1: DNA sequences in phylip format. 2: ms format (+mhits) 3: phylip excluding mhits"
+"print_neuttest Calculates and prints neutral tests. 0: no calculatation. 1=avg+var 2=values/loci + avg+var"
+"Using the sliding windows or liked loci, avg+var file is not very informative. Then use option 2"
+print_matrixpol 	0
+print_neuttest	1
+
+"Basic parameters: For more than 1 locus separate the values with spaces or tabs"
+"npop indicates the number of populations  studied"
+n_iterations	100
+n_loci	1
+n_sites 	1000
+n_samples 	20
+npop	1
+
+recombination	10
+thetaw	5
+
+"Likelihood option. set at 1 only if the likelihood value is required."
+likelihood_line	0
+
+"Heterogeneity for mutation and recombination rates is allowed at positions. the value of alpha must be given. 0 or less indicates that a uniform will be used. A value (0,inf) ia allowed, being close to zero extreme hotspot distribution, 1 an exponential distribution, and >100 close to uniform."
+"invar_mut_sites indicates the number of sites that are considered invariable (it is used as a proportion)."
+heter_rec_alphag	-1
+heter_theta_alphag	-1
+invar_mut_sites	-1
+
+"mhits: in case of considering multiple hits type 1, otherwise 0"
+"seed2: add in case of mhits"
+"mhratio_sv is the ratio transition/transversion, s/v = 0.5 indicates no bias. The mutational bias must be defined for each locus. Otherwise will be assigned 0.5 by default."
+"dist_out indicates the divergence, in 4No generations, of the studied species to the outgroup"
+mhits  	0
+seed2  	123
+mhratio_sv  	0.5
+dist_out  	8
+
+"factor that correct each locus for population size considering the chromosomal dotation in relation to 4N: e.g., An autosomal locus is 1 (4N), a locus located in the X chromosome has a factor of 0.75 (3N)."
+"in case recombination is supressed in males, set no_rec_males at 1, otherwise set at 0."
+factorn_chr	1
+no_rec_males		0
+
+"to increase the speed of simulations, the user can eliminate recombination after a tlimit time (in 4N generations). tlimit 1 means that after 4N generations the recombination has a value of zero."
+tlimit	1000
+
+"To use in case of linked loci: 0 no calculation, 1 use this option with sliding windows, > 1 for a number of separated fragments."
+"pos_linked: type the first and the last nt positions (the first nucleotide is zero), comma and the next locus."
+"linked_segsites, linked_rm and linked_nhapl are used to fix a number of segregating sites, Rm and number of haplotypes, respectively, for each linked region. These options are only allowed when theta (fixed or distribution) is defined "
+nlinked_loci   	0
+pos_linked 	0
+linked_segsites	0
+linked_rm	0
+linked_nhapl	0
+"in case n_locilinked = 1"
+displ  	0
+window  	0
+
+
+"in case the theta distribution is a gamma, set ifgamma at 1. In case using a uniform distribution of theta values, set range_thetant at 1."
+"In case of using a uniform distribution: In order to limit the theta values to biologically realistic values, set range_thetant at 1 and specify the limits of the theta per nucleotide values and the same values will be used for all the loci studied."
+"in case the theta distribution is a known gamma distribution, set ifgamma at 1 and include FOR EACH LOCUS (separated by spaces) the value of p and alpha parameters in relation to variation per locus (NOT per nucleotide). "
+"correct_gamma multiplies the result of the gamma distribution for the indicated value"
+range_thetant  	0
+thetant_min 	0.0005
+thetant_max 	0.05
+ifgamma	0
+alpha_gamma	0.0
+p_gamma	0.0
+correct_gamma	0.0
+
+"in case the recombination distribution is a gamma, set ifgammar at 1. In case using a uniform distribution of R values, set range_rnt at 1."
+"In case of using a uniform distribution: In order to limit the R values to biologically realistic values, set range_rnt at 1 and specify the limits of the R per nucleotide values and the same values will be used for all the loci studied."
+"in case the R distribution is a known gamma distribution, set ifgammar at 1 and include FOR EACH LOCUS (separated by spaces) the value of p and alpha parameters in relation to variation per locus (NOT per nucleotide)"
+"correct_gammar multiplies the result of the gamma distribution for the indicated value"
+range_rnt  	0
+recnt_min 	0.0005
+recnt_max 	0.05
+ifgamma	0
+alpha_gammar	0.0
+p_gammar	0.0
+correct_gammar	0.0
+
+"sfix_allthetas: use this parameter in case conditioning over S and given a distribution of theta values (otherwise 0). rmfix must be 1 when conditioning on Rm (and alternatively the number of haplotypes)."
+sfix_allthetas  	0
+mutations  	0
+rmfix	0
+Rm	2
+nhapl	0
+
+"in case sfix_allthetas or/and rmfix be 1(defined), the method for obtaining samples conditioning values must be defined using method_samp: 1 indicates RA."
+method_samp	1
+
+"WARNING: each model is incompatible with the others, with the exception of selection plus neutral stationary model and migration plus changes in population size."
+
+"ifselection: in case of selection type 1, otherwise 0"
+"selection, we need N (pop_size), 4Ns (pop_sel), sel_nt is the position of selected nt (negative values are allowed)"
+"sinit is the time in 4N generations since the selective process finished. Negative values are allowed and indicate unfinished processes."
+"In case of selection, the recombination parameter value means the recombination value for the studied region. the recombination value to the selected position is inferred from the proportion"
+ifselection  	0
+pop_size  	1E06
+pop_sel  	2E04
+sel_nt  	-10000
+sinit  	0
+
+"some subdivision parameters: define in case of more than one population"
+"npop_sampled, set the number of pops studied for each locus"
+"ssize_pop = sample size of each pop separated by spaces, comma and the next locus."
+npop_sampled   	1
+ssize_pop  	20
+
+"Refugia parameters: refugia 1 if used, otherwise 0"
+"npoprefugia: number of refugia"
+"time_split: from present to past, time in 4N generations the present population joined from all refugia."
+"time_scoal: from present to past, time in 4N generations the population was splitted in several refugia."
+"factor_anc: relative population size of the ancestral population, where No is 1."
+"freq_refugia: average frequency contribution of each refugia to the present population (separated by spaces or tabs)."
+refugia	0
+npoprefugia  	2
+time_split	0.0140
+time_scoal	0.0165
+factor_anc	0.1
+freq_refugia	0.5 0.5
+
+"Define in case of refugia or subdivision:"
+"mig_rate = 4NNm. In case of more than one population, migration is needed."
+"factor_pop = Population size in relation to N. 1 means N for each population or refugia (separated by spaces or tabs)."
+"ran_factor_pop: 1 indicates that the relative population size of each population or refugia is randomly chosen before each iteration. Otherwise 0"
+"same_factor_pop: indicates that the relative population size of each population or refugia is fixed on 1 (where No = 1). Otherwise 0"
+mig_rate  	0
+factor_pop    	1 0.1
+ran_factorpop  	0
+same_factorpop 	0
+
+"Changes in N: set nintn at 0 if is not used."
+"iflogistic 1 indicates that a logistic curve is used, otherwise (iflogistic 0) the changes in N are instantaneous and only nrec is used (npast is useless in this last case)"
+"in case logistic growth, ts can be defined: ts is only available for the FIRST event (from present) and indicates the curve of the growth; for example:"
+"in case the first event has a duration 0.1 and ts=0.0, the logistic grow shows a typical sigmoidal curve, but if ts=0.05, the curve is starting in the middle (showing an exponential-like curve) but continues for 0.1 (!) No generations."
+"nintn = number of events."
+"nrec = relative pop size at the beggining of the event (recent)"
+"npast = relative pop size at the end of the event (past)"
+"tpast = duration of the event in 4N generations"
+iflogistic	1
+ts	0.0
+nintn	0
+nrec	1
+npast	1
+tpast	0.15
+
+"Observed values for statistics"
+"The first column indicates if Pvalues are calculated (1) or not (0)."
+"After the first column, include the values of each locus, separated by spaces or tabs. A maximum precission of +- 1e-06 is used."
+"With this option the probability to have an observed value higher or equal than the simulated values is calculated."
+"Note that the anme of the statistics FD* and FF* are replaced by FDn and FFn, and D/Dmax and H/Hmax by D_Dmin and H_Hmin respectively."
+
+TD_obs	0	-0.0494264
+Fs_obs	0	-1.59676
+FDn_obs	0	0.0200351
+FFn_obs	0	0.0131718
+FD_obs	0	0.0134
+FF_obs	0	-0.00123657
+H_obs	0	0.783333
+B_obs	0	0.125
+Q_obs	0	0.205882
+ZA_obs	0	0.220047
+Fst_obs	0	
+Kw_obs	0	0.6
+Hw_obs	0	0.946667
+R2_obs	0	0.122479
+S_obs	0	37
+pi_w_obs	0	0
+pi_b_obs	0	0
+thetaWatt_obs	0	9.79884
+thetaTaj_obs	0	9.54
+thetaFW_obs	0	9.13
+D_Dmin_obs	0	-0.0189366
+H_Hmin_obs	0	0.012183
+maxhap_obs	0	0.16
+maxhap1_obs	0	0.2
+Rm_obs	0	3
+
+"In case likelihood_line 1, then a interval for coincidence of the observed value (+/- the value) is required."
+TD_err	0
+Fs_err	0
+FDn_err	0
+FFn_err	0
+FD_err	0
+FF_err	0
+H_err	0
+B_err	0
+Q_err	0
+ZA_err	0
+Fst_err	0	
+Kw_err	0
+Hw_err	0
+R2_err	0
+S_err	0
+pi_w_err	0
+pi_b_err	0
+thetaWatt_err	0
+thetaTaj_err	0
+thetaFW_err	0
+D_Dmin_err	0
+H_Hmin_err	0
+maxhap_err	0
+maxhap1_err	0
+Rm_err	0

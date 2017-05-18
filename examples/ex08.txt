@@ -1,0 +1,23 @@
+seed1	4653
+print_matrixpol 	0
+print_neuttest	1
+
+n_iterations	1000
+n_loci	1
+n_sites 	1050
+n_samples 	30
+npop	1
+
+recombination	10
+factorn_chr	1
+no_rec_males	0
+
+range_thetant  	0
+thetant_min 	0.0005
+thetant_max 	0.05
+
+ifgamma	1
+p_gamma	1.0
+alpha_gamma	1.0
+correct_gamma	5.0
+

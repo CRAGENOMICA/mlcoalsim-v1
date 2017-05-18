@@ -1,0 +1,19 @@
+seed1	539
+print_matrixpol 	0
+print_neuttest	1
+
+n_iterations	1000
+n_loci	1
+n_sites 	1050
+n_samples 	30
+npop	1
+
+recombination	10
+thetaw	10
+factorn_chr	1
+no_rec_males	0
+
+mhits	1
+seed2	546
+mhratio_sv	0.5
+dist_out	8

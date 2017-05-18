@@ -1,0 +1,21 @@
+
+Enter the name of the parameter[1]: Enter the column position of the parameter[1] (the parameter is the column 0): Enter the minimum value of the parameter[1]: Enter the operation for increasing the value of the parameter[1] ((s)umma, (p)roduct, sum (l)og): Enter the increasing value of the parameter[1]: Enter the number of values for the parameter[1]: 
+Enter the name of the parameter[2]: Enter the column position of the parameter[2] (the parameter is the column 0): Enter the minimum value of the parameter[2]: Enter the operation for increasing the value of the parameter[2] ((s)umma, (p)roduct, sum (l)og): Enter the increasing value of the parameter[2]: Enter the number of values for the parameter[2]: 
+
+PARAMETERS:
+Name of the parameter[1]: thetaw
+Column position of the parameter[1] (the parameter is the column 0): 1
+Minimum value of the parameter[1]: 0.5
+Operation for increasing the value of the parameter[1] ((s)umma, (p)roduct, sum (l)og): s
+Increasing value of the parameter[1]: 0.5
+Number of values for the parameter[1]: 50
+
+Name of the parameter[2]: recombination
+Column position of the parameter[2] (the parameter is the column 0): 1
+Minimum value of the parameter[2]: 0.5
+Operation for increasing the value of the parameter[2] ((s)umma, (p)roduct, sum (l)og): s
+Increasing value of the parameter[2]: 0.5
+Number of values for the parameter[2]: 50
+
+Generating 2500 runs with mlcoalsim...
+mlcoalsim_grid.pl process finished.

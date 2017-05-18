@@ -1,0 +1,26 @@
+seed1	4432
+print_matrixpol 	0
+print_neuttest	1
+
+n_iterations	1000
+n_loci	1
+n_sites 	1050
+n_samples 	30
+npop	1
+
+thetaw	10
+factorn_chr	1
+no_rec_males	0
+
+rmfix  	1
+method_samp	1
+rm	2
+
+range_rnt  	1
+recnt_min 	0.0005
+recnt_max 	0.05
+
+ifgammar	0
+p_gammar	0.0
+alpha_gammar	0.0
+correct_gammar	0.0

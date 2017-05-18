@@ -1,0 +1,12 @@
+Probability to have a value in the simulated model smaller than the observed value
+
+Name of the observed data file: obsvalues.out
+
+Observed data values:
+	value(TD)	value(Fs)	value(FD*)	value(FF*)	value(FD)	value(FF)	value(H)	value(B)	value(Q)	value(ZA)	value(Fst)	value(Kw)	value(Hw)	value(R2)	value(S)	value(pi_w)	value(pi_b)	value(ThetaWatt)	value(ThetaTaj)	value(ThetaFW*)	value(D/Dmin)	value(H/Hmin)	value(maxhap)	value(maxhap1)
+	0	-23.45	na	na	na	na	na	na	0.3871	na	na	na	na	na	na	na	na	na	na	na	na	na	na	0.54545
+
+
+file	N_iterations	Seed1	N_loci	Sfix_allthetas	Range_thetant	N_samples	N_sites	Recombination	Mutations	Thetaw	Nintn	Nrec	Npast	Tpast	Npop	Mig_rate	Ifselection	Pop_size	Pop_sel	Sel_nt	Sinit	Probability	value(TD)	value(Fs)	value(FD*)	value(FF*)	value(FD)	value(FF)	value(H)	value(B)	value(Q)	value(ZA)	value(Fst)	value(Kw)	value(Hw)	value(R2)	value(S)	value(pi_w)	value(pi_b)	value(ThetaWatt)	value(ThetaTaj)	value(ThetaFW*)	value(D/Dmin)	value(H/Hmin)	value(maxhap)	value(maxhap1)
+	1000	4638	1	1	1	11	3927	12	96		5	1 1 0.01 0.01 1	1 0.01 0.01 1 1	0.045 1E-006 0.005 1E-006 4								Prob sim <= obs	0.725	0	na	na	na	na	na	na	0.605	na	na	na	na	na	na	na	na	na	na	na	na	na	na	1
+	1000	4638	1	1	1	11	3927	12	96		5	1 1 0.01 0.01 1	1 0.01 0.01 1 1	0.045 1E-006 0.005 1E-006 4								Prob sim >= obs	0.275	1	na	na	na	na	na	na	0.395	na	na	na	na	na	na	na	na	na	na	na	na	na	na	0.001

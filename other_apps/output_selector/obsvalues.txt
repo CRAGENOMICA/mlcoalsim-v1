@@ -1,0 +1,2 @@
+value(TD)	value(Fs)	value(FD*)	value(FF*)	value(FD)	value(FF)	value(H)	value(B)	value(Q)	value(ZA)	value(Fst)	value(Kw)	value(Hw)	value(R2)	value(S)	value(pi_w)	value(pi_b)	value(ThetaWatt)	value(ThetaTaj)	value(ThetaFW*)	value(D/Dmin)	value(H/Hmin)	value(maxhap)	value(maxhap1)	value(Rm)
+0	-23.45	na						0.3871															0.54545

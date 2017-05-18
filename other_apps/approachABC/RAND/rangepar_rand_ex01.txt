@@ -1,0 +1,10 @@
+thetaw
+1
+u
+0.05
+25
+recombination
+1
+l
+0.05
+25

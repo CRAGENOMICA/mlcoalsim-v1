@@ -1,0 +1,39 @@
+seed1	671
+print_matrixpol 	0
+print_neuttest	2
+
+n_iterations	1000
+n_loci	4
+n_sites 	1050 560 2456 1000
+n_samples 	30 10 24 12
+npop	1
+
+recombination	10 0 30 56
+mutations  	20 11 46 17
+factorn_chr	1 1 0.75 0.75
+no_rec_males	0
+
+range_thetant  	1
+thetant_min 	0.0005
+thetant_max 	0.05
+
+ifgamma	0
+p_gamma	0
+alpha_gamma	0.0
+correct_gamma	0.0
+
+sfix_allthetas  	1
+method_samp	1
+
+refugia	1
+npoprefugia  	2
+time_split	0.0140
+time_scoal	0.0165
+factor_anc	0.1
+freq_refugia	0.5 0.5
+
+mig_rate  	5
+factor_pop    	0.1 0.05
+ran_factorpop  	0
+same_factorpop 	0
+

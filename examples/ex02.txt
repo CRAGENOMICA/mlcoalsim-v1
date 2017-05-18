@@ -1,0 +1,22 @@
+seed1	5685
+print_matrixpol 	0
+print_neuttest	1
+
+n_iterations	100
+n_loci	1
+n_sites 	1050
+n_samples 	55
+
+recombination	10
+thetaw	5
+factorn_chr	1
+no_rec_males 	0
+
+npop	10
+npop_sampled   	3
+ssize_pop  	20 10 25
+
+mig_rate  	5
+factor_pop    	1 0.1 1 0.132 5.13 0.268 6.63 8.2 2.88 0.17
+ran_factorpop  	0
+same_factorpop 	0

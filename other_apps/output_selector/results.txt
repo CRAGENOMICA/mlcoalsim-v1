@@ -1,0 +1,26 @@
+
+version:	output_selector4
+Options:
+cols	9:24
+in	simulations.out
+obs	obsvalues.txt
+out	results.txt
+tail	both
+emp	y
+
+COMPUTING THE COMPOSITE PROBABILITY:
+
+
+
+Statistic	mean	1%	2.5%	5%	25%	50%	75%	95%	97.5%	99%	valid_iter
+value(Q)	0.334757	0.062500	0.083333	0.093750	0.156250	0.291670	0.500000	0.677080	0.718750	0.760420	10000
+value(maxhap1)	0.150801	0.090909	0.090909	0.090909	0.090909	0.181820	0.181820	0.272730	0.272730	0.363640	10000
+
+
+Statistic	OBSERVED	P1
+value(Q)	0.387100	0.789200
+value(maxhap1)	0.545450	0.001600
+
+
+P1:	Cst	Prob(Chi2[4 df])	Prob(empirical)
+RESULT:	13.348974	0.009691	0.008500	

@@ -1,0 +1,23 @@
+
+Enter the name of the parameter[1]: Enter the column position of the parameter[1] (the parameter is the column 0): Enter the steps for the parameter[1] (aritmethic[a],logarithmic[l]): Enter the increasing delta value for MHMCMC of the parameter[1]: Enter the minimum value of the parameter[1]: Enter the maximum value of the parameter[1]: Enter the initial value of the parameter[1]: 
+Enter the name of the parameter[2]: Enter the column position of the parameter[2] (the parameter is the column 0): Enter the steps for the parameter[2] (aritmethic[a],logarithmic[l]): Enter the increasing delta value for MHMCMC of the parameter[2]: Enter the minimum value of the parameter[2]: Enter the maximum value of the parameter[2]: Enter the initial value of the parameter[2]: 
+PARAMETERS:
+
+Name of the parameter[1]: thetaw
+Column position of the parameter[1] (the parameter is the column 0): 1
+Steps for the parameter[1] (aritmethic[a],logarithmic[l]): l
+Increasing delta value for MHMCMC of the parameter[1]: 0.5
+Minimum value of the parameter[1]: 0
+Maximum value of the parameter[1]: 25
+Initial value of the parameter[1]: 0.5
+
+Name of the parameter[2]: recombination
+Column position of the parameter[2] (the parameter is the column 0): 1
+Steps for the parameter[2] (aritmethic[a],logarithmic[l]): l
+Increasing delta value for MHMCMC of the parameter[2]: 0.5
+Minimum value of the parameter[2]: 0
+Maximum value of the parameter[2]: 25
+Initial value of the parameter[2]: 0.5
+
+Generating 4500+500 runs with mlcoalsim...
+mlcoalsim_mhmcmc.pl process finished.

@@ -1,0 +1,1 @@
+perl mlcoalsim_grid.pl -infile ex01_input_likelihood.txt -num_par 2 -outfile ex01grid.out -parfile ex01par_grid.out -os mac < rangepar_grid_ex01.txt > ex01res_grid.out
